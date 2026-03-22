@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D5";"LED_D3.0mm_IRBlack";1;"IR204A";;;
+2;"LED1";"LED_D3.0mm_IRGrey";1;"LED_3mm_IR";;;
+3;"R5,R7";"R_0402_1005Metric";2;"1k";;;
+4;"C3,C1";"C_0402_1005Metric";2;"0.1uF";;;
+5;"RV2";"Potentiometer_TT_Model-23_4.5x5.0x3.0mm";1;"R_POT_10K_Trimmer";;;
+6;"PIN";"PinHeader_1x03_P2.54mm_Vertical";1;"PINHD_1x3_Male";;;
+7;"D2,D1";"LED_0402_1005Metric_Red";2;"Red";;;
+8;"U1";"SO-8_3.9x4.9mm_P1.27mm";1;"LM358AD";;;
+9;"R6";"R_0402_1005Metric";1;"10k";;;
+10;"R2";"R_0402_1005Metric";1;"100";;;
