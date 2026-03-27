@@ -1,0 +1,12 @@
+Front (top side) placement file: 'C:\Users\hp\Documents\KiCad\ir_sensor\ir_sensor-top.pos'.
+Info: Component count: 11.
+Back (bottom side) placement file: 'C:\Users\hp\Documents\KiCad\ir_sensor\ir_sensor-bottom.pos'.
+Info: Component count: 0.
+Info: Full component count: 11.
+Info: Done.
+Front (top side) placement file: 'C:\Users\hp\Documents\KiCad\ir_sensor\ir_sensor-top.pos'.
+Info: Component count: 11.
+Back (bottom side) placement file: 'C:\Users\hp\Documents\KiCad\ir_sensor\ir_sensor-bottom.pos'.
+Info: Component count: 0.
+Info: Full component count: 11.
+Info: Done.

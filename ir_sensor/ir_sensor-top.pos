@@ -1,0 +1,17 @@
+### Footprint positions - created on 2026-03-27T12:55:14+0530 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                  Package                                   PosX       PosY       Rot  Side
+D1        LED                  LED_D5.0mm_Clear                      137.5000   -59.1800  -90.0000  top
+D2        LED                  LED_D5.0mm_IRBlack                    137.5000   -66.6600  -90.0000  top
+D3        LED                  LED_0603_1608Metric                   160.8125   -70.0000    0.0000  top
+D4        LED                  LED_0603_1608Metric                   161.2000   -59.6000  180.0000  top
+J1        Conn_01x03_Pin       PinHeader_1x03_P2.54mm_Vertical       161.1500   -62.2500    0.0000  top
+R1        R_Small_10k          R_0805_2012Metric                     143.8025   -71.4000  180.0000  top
+R2        R_Small_330          R_0805_2012Metric                     153.3750   -58.0140    0.0000  top
+R3        R_Small_100          R_0805_2012Metric                     145.2000   -58.6000    0.0000  top
+R4        R_Small_1k           R_0805_2012Metric                     157.5975   -58.0000    0.0000  top
+RV1       potentiometer_RK163  Potentiometer_Bourns_3296W_Vertical   145.2000   -62.5000   90.0000  top
+U1        LM358                SMDIP-8_W7.62mm                       153.8600   -64.9600    0.0000  top
+## End
