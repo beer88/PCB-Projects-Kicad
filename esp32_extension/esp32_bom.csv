@@ -1,9 +1,0 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"C1";"C_0402_1005Metric";1;"10uF";;;
-2;"D1";"LED_1206_3216Metric_Blue";1;"Blue";;;
-3;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"1k";;;
-4;"C4";"C_0402_1005Metric";1;"0.1uF";;;
-5;"J6,J4,J3,J5";"PinSocket_1x15_P2.54mm_Vertical";4;"PINHD_1x15_Female";;;
-6;"J10,J8";"TerminalBlock_Phoenix_PT-1,5-6-3.5-H_1x06_P3.50mm_Horizontal";2;"Screw_Terminal_6_P3.50mm";;;
-7;"J2,J1";"PinHeader_1x15_P2.54mm_Vertical";2;"PINHD_1x15_Male";;;
-8;"J9,J7";"TerminalBlock_Phoenix_PT-1,5-9-5.0-H_1x09_P5.00mm_Horizontal";2;"Screw_Terminal_9_P5.00mm";;;
