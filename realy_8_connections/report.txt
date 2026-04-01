@@ -1,0 +1,14 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; -0.000002 mm] for the current design rules.
+Plotted to 'C:\Users\hp\Documents\KiCad\realy_8_connections\realy_8_connections-F_Cu.gbr'.
+Plotted to 'C:\Users\hp\Documents\KiCad\realy_8_connections\realy_8_connections-B_Cu.gbr'.
+Plotted to 'C:\Users\hp\Documents\KiCad\realy_8_connections\realy_8_connections-F_Paste.gbr'.
+Plotted to 'C:\Users\hp\Documents\KiCad\realy_8_connections\realy_8_connections-B_Paste.gbr'.
+Plotted to 'C:\Users\hp\Documents\KiCad\realy_8_connections\realy_8_connections-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\hp\Documents\KiCad\realy_8_connections\realy_8_connections-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\hp\Documents\KiCad\realy_8_connections\realy_8_connections-F_Mask.gbr'.
+Plotted to 'C:\Users\hp\Documents\KiCad\realy_8_connections\realy_8_connections-B_Mask.gbr'.
+Plotted to 'C:\Users\hp\Documents\KiCad\realy_8_connections\realy_8_connections-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\hp\Documents\KiCad\realy_8_connections\realy_8_connections-job.gbrjob'.
+Info: Done.
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; -0.000002 mm] for the current design rules.
+Info: Done.
