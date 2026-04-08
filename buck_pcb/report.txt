@@ -1,0 +1,6 @@
+Front (top side) placement file: 'C:\Users\hp\Documents\KiCad\buck_pcb\buck_pcb-top.pos'.
+Info: Component count: 13.
+Back (bottom side) placement file: 'C:\Users\hp\Documents\KiCad\buck_pcb\buck_pcb-bottom.pos'.
+Info: Component count: 0.
+Info: Full component count: 13.
+Info: Done.

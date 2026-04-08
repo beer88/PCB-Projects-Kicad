@@ -1,0 +1,12 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C2";"CP_Elec_6.3x5.3";1;"220uF/35V";;;
+2;"J2,J3,J1";"PinSocket_1x01_P2.54mm_Vertical";3;"Conn_01x01_Pin";;;
+3;"D1";"D_2010_5025Metric";1;"1N5822";;;
+4;"C1";"CP_Elec_6.3x5.3";1;"100uF/50V";;;
+5;"L1";"L_Chilisin_BMRB00060612";1;"33uH";;;
+6;"R2";"C_1206_3216Metric";1;"2k2";;;
+7;"U1";"TO-263-5_TabPin3";1;"LM2596S-ADJ";;;
+8;"D2";"LED_0603_1608Metric";1;"LED";;;
+9;"R1";"C_1206_3216Metric";1;"1k21";;;
+10;"J4";"PinHeader_1x01_P2.54mm_Vertical";1;"Conn_01x01_Pin";;;
+11;"RV1";"Potentiometer_Bourns_3266Y_Vertical";1;"50k";;;

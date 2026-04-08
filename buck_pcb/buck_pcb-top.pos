@@ -1,0 +1,19 @@
+### Footprint positions - created on 2026-04-08T18:29:08+0530 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                                   PosX       PosY       Rot  Side
+C1        100uF/50V       CP_Elec_6.3x5.3                        75.5904  -103.0792   90.0000  top
+C2        220uF/35V       CP_Elec_6.3x5.3                       104.4448  -102.2036  -90.0000  top
+D1        1N5822          D_2010_5025Metric                      77.1504   -95.9612    0.0000  top
+D2        LED             LED_0603_1608Metric                   109.5248  -103.7844   90.0000  top
+J1        Conn_01x01_Pin  PinSocket_1x01_P2.54mm_Vertical       109.4232  -110.1852    0.0000  top
+J2        Conn_01x01_Pin  PinSocket_1x01_P2.54mm_Vertical        71.6280  -110.1344    0.0000  top
+J3        Conn_01x01_Pin  PinSocket_1x01_P2.54mm_Vertical        71.5772   -93.1672    0.0000  top
+J4        Conn_01x01_Pin  PinHeader_1x01_P2.54mm_Vertical       109.3216   -93.2180    0.0000  top
+L1        33uH            L_Chilisin_BMRB00060612                96.2660  -104.8282   90.0000  top
+R1        1k21            C_1206_3216Metric                      96.5218   -98.8060  180.0000  top
+R2        2k2             C_1206_3216Metric                     109.5756   -99.3630  -90.0000  top
+RV1       50k             Potentiometer_Bourns_3266Y_Vertical    98.9076   -94.6912    0.0000  top
+U1        LM2596S-ADJ     TO-263-5_TabPin3                       86.6458   -98.5146   90.0000  top
+## End
