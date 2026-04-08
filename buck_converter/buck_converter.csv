@@ -1,0 +1,16 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C3,C5";"C_0805_2012Metric";2;"100nf";;;
+2;"J1,J2,J4,J3";"PinHeader_01x01_P2.54mm_Vertical_THT_D1mm";4;"PinHeader_01x01_P2.54mm_Horizontal_SMD";;;
+3;"D2";"D_SMA";1;"SS34";;;
+4;"R3,R4";"R_0805_2012Metric";2;"1.2k ohm";;;
+5;"R1";"R_0805_2012Metric";1;"510 ohm";;;
+6;"C1";"L_0805_2012Metric_Pad1.15x1.40mm";1;"1000uF_40V";;;
+7;"R5";"R_0805_2012Metric";1;"3.3k ohm";;;
+8;"U1";"TO-263-5_TabPin3";1;"LM2596S-ADJ";;;
+9;"C4";"CP_Elec_3x5.3";1;"220uF_40V";;;
+10;"D1";"LED_0805_2012Metric";1;"LED";;;
+11;"C2";"LED_0805_2012Metric";1;"10nF";;;
+12;"C6";"C_0805_2012Metric";1;"100pF_0603_50V";;;
+13;"R2";"Potentiometer_Bourns_3299Y_Vertical";1;"10k";;;
+14;"C7";"C_0805_2012Metric";1;"1.0uF";;;
+15;"L1";"L_10.4x10.4_H4.8";1;"33µH";;;

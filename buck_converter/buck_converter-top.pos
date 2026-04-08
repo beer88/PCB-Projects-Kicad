@@ -1,0 +1,26 @@
+### Footprint positions - created on 2026-04-08T11:19:56+0530 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                                     Package                                         PosX       PosY       Rot  Side
+C1        1000uF_40V                              L_0805_2012Metric_Pad1.15x1.40mm             63.1190   -46.1010   90.0000  top
+C2        10nF                                    LED_0805_2012Metric                          76.8800   -41.9415   90.0000  top
+C3        100nf                                   C_0805_2012Metric                            63.2460   -53.7210   90.0000  top
+C4        220uF_40V                               CP_Elec_3x5.3                                93.1672   -53.9496   90.0000  top
+C5        100nf                                   C_0805_2012Metric                            91.6157   -43.6141    0.0000  top
+C6        100pF_0603_50V                          C_0805_2012Metric                            69.3928   -58.0136  180.0000  top
+C7        1.0uF                                   C_0805_2012Metric                            63.2460   -50.0380  -90.0000  top
+D1        LED                                     LED_0805_2012Metric                          91.4908   -47.9552  180.0000  top
+D2        SS34                                    D_SMA                                        77.5970   -56.7690   90.0000  top
+J1        PinHeader_01x01_P2.54mm_Horizontal_SMD  PinHeader_01x01_P2.54mm_Vertical_THT_D1mm    62.4840   -41.3811    0.0000  top
+J2        PinHeader_01x01_P2.54mm_Horizontal_SMD  PinHeader_01x01_P2.54mm_Vertical_THT_D1mm    95.3008   -41.3811    0.0000  top
+J3        PinHeader_01x01_P2.54mm_Horizontal_SMD  PinHeader_01x01_P2.54mm_Vertical_THT_D1mm    62.4840   -58.6740    0.0000  top
+J4        PinHeader_01x01_P2.54mm_Horizontal_SMD  PinHeader_01x01_P2.54mm_Vertical_THT_D1mm    95.5548   -58.6740    0.0000  top
+L1        33µH                                   L_10.4x10.4_H4.8                             85.2580   -54.8640    0.0000  top
+R1        510_ohm                                 R_0805_2012Metric                            91.6357   -45.6461  180.0000  top
+R2        10k                                     Potentiometer_Bourns_3299Y_Vertical          87.2490   -42.6720    0.0000  top
+R3        1.2k_ohm                                R_0805_2012Metric                            91.6357   -41.5821  180.0000  top
+R4        1.2k_ohm                                R_0805_2012Metric                            76.8350   -49.2525  -90.0000  top
+R5        3.3k_ohm                                R_0805_2012Metric                            76.8350   -45.5225  -90.0000  top
+U1        LM2596S-ADJ                             TO-263-5_TabPin3                             70.0750   -46.7060   90.0000  top
+## End
