@@ -1,0 +1,12 @@
+Plotted to 'C:\Users\hp\Documents\KiCad\esp32_rtc_display\esp32_rtc_display-F_Cu.gbr'.
+Plotted to 'C:\Users\hp\Documents\KiCad\esp32_rtc_display\esp32_rtc_display-B_Cu.gbr'.
+Plotted to 'C:\Users\hp\Documents\KiCad\esp32_rtc_display\esp32_rtc_display-F_Paste.gbr'.
+Plotted to 'C:\Users\hp\Documents\KiCad\esp32_rtc_display\esp32_rtc_display-B_Paste.gbr'.
+Plotted to 'C:\Users\hp\Documents\KiCad\esp32_rtc_display\esp32_rtc_display-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\hp\Documents\KiCad\esp32_rtc_display\esp32_rtc_display-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\hp\Documents\KiCad\esp32_rtc_display\esp32_rtc_display-F_Mask.gbr'.
+Plotted to 'C:\Users\hp\Documents\KiCad\esp32_rtc_display\esp32_rtc_display-B_Mask.gbr'.
+Plotted to 'C:\Users\hp\Documents\KiCad\esp32_rtc_display\esp32_rtc_display-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\hp\Documents\KiCad\esp32_rtc_display\esp32_rtc_display-job.gbrjob'.
+Info: Done.
+Info: Done.
